@@ -31,37 +31,6 @@ copyright: 无版权
 ---
 # 龋病学
 
-[第一章 龋病学概论]
-
-    [第一节 龋病的定义]
-    
-    [第二节 龋病流行病学]
-
-[第二章 龋病病因与发病机制]
-
-    [第一节 微生物因素]
-    
-    [第二节 龋病发生的宿主因素]
-
-[第三节 食物因素]
-
-[第四节 其他因素]
-
-[龋病病因学说]
-
-    [第三章 临床表现与诊断]
-    
-    [第一节 龋病的病理过程]
-    
-    [第二节 龋病的临床表现及分类]
-    
-    [第三节 龋病的诊断]
-
-[第四章 龋病的治疗计划]
-
-    [第一节 非手术治疗]
-    
-    [第二节 牙体修复与材料选择原则]
 # 第一章 龋病学概论 
 [口腔执业医师 口腔医学综合90 牙体牙髓病学 第一讲（共九讲）_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ag411L7Gr/?spm_id_from=333.788.recommend_more_video.1)
 
@@ -97,7 +66,7 @@ copyright: 无版权
 
 二、龋病学研究内容
 
-## 第二节 龋病流行病学 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+## 第二节 龋病流行病学 
 
 一、好发部位
 
@@ -129,9 +98,8 @@ copyright: 无版权
 
 三、流行情况
 
-# 第二章 龋病病因与发病机制 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
-
-## 第一节 微生物因素 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+# 第二章 龋病病因与发病机制 
+## 第一节 微生物因素 
 
 一、微生物与龋病
 
@@ -268,7 +236,7 @@ copyright: 无版权
 -   非特异性菌斑学说
 -   特异性菌斑学说
 
-## 第二节 龋病发生的宿主因素 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+## 第二节 龋病发生的宿主因素 
 
 一、牙齿
 
@@ -318,7 +286,7 @@ copyright: 无版权
 -   人体抗龋免疫反应
 -   细胞免疫反应
 
-## 第三节 食物因素 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+## 第三节 食物因素 
 
 一、碳水化合物
 
@@ -367,14 +335,14 @@ copyright: 无版权
 1.  耐酸不耐磨
 2.  其他无机物
 
-## 第四节 其他因素 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+## 第四节 其他因素 
 
 1.  年龄因素：母亲的变形链球菌可传给胎儿；儿童新萌出的牙齿合面窝沟较深，矿化程度低，患龋几率高；老年人根面龋发病率高
 2.  性别因素：一般女性发病率高于男性
 3.  家族与遗传因素
 4.  地理因素
 
-## 龋病病因学说 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+## 龋病病因学说 
 
 化学细菌学说
 
@@ -393,9 +361,9 @@ MIller将牙齿、唾液和碳水化合物一起培养，唾液中的细菌利�
 
 四、早期病因学说
 
-# 第三章 临床表现与诊断 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+# 第三章 临床表现与诊断 
 
-## 第一节 龋病的病理过程 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+## 第一节 龋病的病理过程 
 
 龋病是牙齿对牙菌斑生物膜及其代谢产物动态反应的结果，形态学上表现为初期超显微结构水平的脱矿和再矿化 以及晚期的龋洞形成。
 
@@ -446,7 +414,8 @@ MIller将牙齿、唾液和碳水化合物一起培养，唾液中的细菌利�
 
 -   再矿化指使钙、磷和其他矿物质离子沉积于正常或部分脱矿的牙釉质中或其表面的过程，局部氟离子和钙离子浓度可促进再矿化。发育尚未成熟的牙釉质亦可在口腔中继续矿化。
 
-## 第二节 龋病的临床表现及分类 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+## 第二节 龋病的临床表现及分类 
+
 
 临床特征
 
@@ -537,7 +506,8 @@ MIller将牙齿、唾液和碳水化合物一起培养，唾液中的细菌利�
 
 牙釉质脱矿从表面下层开始，看似完整的牙釉质下方存在龋洞。
 
-## 第三节 龋病的诊断 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+## 第三节 龋病的诊断 
+
 
 一、诊断方法
 
@@ -584,7 +554,7 @@ MIller将牙齿、唾液和碳水化合物一起培养，唾液中的细菌利�
 -   若深龋洞洞口开放，则常有食物嵌入洞中，食物压迫使牙髓内部压力增加，产生疼痛。遇冷、热和化学刺激时，产生的疼痛较中龋时更加剧烈。
 -   深龋时一般均能引起牙髓组织的修复性反应，包括修复性牙本质形成，轻度的慢性炎症反应， 或血管扩张、成牙本质细胞层紊乱等。
 
-# 第四章 龋病的治疗计划 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+# 第四章 龋病的治疗计划
 
 ## 龋病治疗目的
 
@@ -593,7 +563,7 @@ MIller将牙齿、唾液和碳水化合物一起培养，唾液中的细菌利�
 3.  恢复牙齿形态和功能
 4.  维持与邻近软组织的正常生理解剖关系
 
-## 第一节 非手术治疗 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+## 第一节 非手术治疗 
 
 非手术治疗是采用药物或再矿化等技术终止或消除龋病的治疗方法。非手术治疗主要适用于：
 
@@ -660,7 +630,7 @@ MIller将牙齿、唾液和碳水化合物一起培养，唾液中的细菌利�
 8.  光固化40s。
 9.  抛光。
 
-## 第二节 牙体修复与材料选择原则 ([Back to Top](onenote:#【教材】1%20龋病学概论&section-id={50B8EA6E-F4DC-4CB8-A0C0-A4A623B7651F}&page-id={2422BD3E-5D31-8D4D-9C96-9E5897A4F5B1}&object-id={8522AD51-5F67-2140-9BE5-647E20F2533C}&F&base-path=https://d.docs.live.net/c341a3c2a658060d/onenote文档/口腔专业课/牙体牙髓病学.one))
+## 第二节 牙体修复与材料选择原则 
 
 一、牙体修复的原则
 
