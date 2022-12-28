@@ -4,10 +4,10 @@ home: true
 layout: BlogHome
 icon: home
 title: 测试博客
-#heroImage: /logo.svg
+heroImage: /MainLogo2.png
 heroText: 测试博客
 tagline: 盛年不重来，一日难再晨
-bgImage: http://tc.seoipo.com/home-bg-1.jpg
+bgImage: /bcgd.jpg
 heroFullScreen: false
 #projects:
 #  - icon: project
