@@ -6,16 +6,14 @@
     <link>https://newzone.top/</link>
     <description>记录并输出一切能让自己提升的知识。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 28 Dec 2022 01:36:18 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Dec 2022 01:36:18 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Dec 2022 01:39:37 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Dec 2022 01:39:37 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>工具</category>
     <category>系统</category>
     <category>网络</category>
     <category>服务器</category>
-    <category>自动化</category>
-    <category>健康</category>
     <item>
       <title>电脑上实现微信双开，无需网页版或第三方软件</title>
       <link>https://newzone.top/posts/2017-04-18-wechat_multi_open.html</link>
@@ -277,130 +275,6 @@ MSOCache 其它的目录下内容同样根据注册表的内容把它指示的�
 <p>第三次测试使用阿里云 DNS，分配杭州电信，网站正常</p>
 <p>后面两次虽然都能打开网站，但没有一个分配在上海电信，这种加速又能快多少呢？</p>
 <p>在网站<strong>配置足够、流量不大（日均访客 1000 以内）</strong> 时，不建议使用全站 CDN，这只会拖累访问体验。小网站只适合将图片部署在 CDN。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>雇个机器人帮你干活</title>
-      <link>https://newzone.top/posts/2018-01-31-hire_a_robot.html</link>
-      <guid>https://newzone.top/posts/2018-01-31-hire_a_robot.html</guid>
-      <source url="https://newzone.top/rss.xml">雇个机器人帮你干活</source>
-      <description>机器人会取代你工作！ 计算云会取代你工作！ AI 会取代你的工作！ 我相信科技终究有一天会消灭所有工作，但我们这代人的无奈就是很难等到这一天。 作为懒人、宅男，等不及了怎么办？ 既然还没被取代，那就雇个机器人帮你干活！ 我每天第一件事是去各个网站看热门新闻、行业资料。以前是用 RSS，但 RSS 被视为落后，越来越多的网站不再提供 RSS 源。离开 RSS，我就一直没找到更合适的方法去将内容聚合起来，不得不在一个个网站间疲于奔命，逐渐不再看内容。</description>
-      <category>自动化</category>
-      <pubDate>Wed, 31 Jan 2018 22:51:00 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p>机器人会取代你工作！
-计算云会取代你工作！
-AI 会取代你的工作！</p>
-</blockquote>
-<p>我相信科技终究有一天会消灭所有工作，但我们这代人的无奈就是很难等到这一天。</p>
-<p>作为懒人、宅男，等不及了怎么办？</p>
-<p>既然还没被取代，那就<strong>雇个机器人帮你干活</strong>！</p>
-<p>我每天第一件事是去各个网站看热门新闻、行业资料。以前是用 RSS，但 RSS 被视为落后，越来越多的网站不再提供 RSS 源。离开 RSS，我就一直没找到更合适的方法去将内容聚合起来，不得不在一个个网站间疲于奔命，逐渐不再看内容。</p>
-<blockquote>
-<p>RSS(Really Simple Syndication) 是一种描述和同步网站内容的格式，是使用最广泛的 XML 应用。简易信息聚合（也叫聚合内容）是一种 RSS 基于 XML 标准，在互联网上被广泛采用的内容包装和投递协议。</p>
-</blockquote>
-<ul class="task-list-container">
-<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" id="task-item-0" disabled="disabled"><label class="task-list-item-label" for="task-item-0"> 增加 <code>Alfred</code> 搜索</label></li>
-</ul>
-<p><strong>直到遇到了我的第一个机器人雇员 <a href="https://github.com/huginn/huginn" target="_blank" rel="noopener noreferrer">Huginn</a></strong></p>
-<blockquote>
-<p>Huginn 是一个可以创建为你在线执行自动化任务的系统。Huginn 可以读取网页，监测事件并且执行符合你需求的动作。Huginn 通过 agents 创建并执行任务（事件流）。你可以将它看作是一个运行在你自己服务器上的 IFTTT 或 Zapier。</p>
-</blockquote>
-<p>Huginn 帮我将所有信息聚合成 RSS，24 小时帮我获取我要的内容。</p>
-<ul>
-<li><a href="http://news.163.com/rank" target="_blank" rel="noopener noreferrer">网易热门新闻</a>：抓取网易顶贴最多的 100 条新闻</li>
-<li><a href="http://top.baidu.com/buzz?b=1" target="_blank" rel="noopener noreferrer">百度实时热点</a>：实时更新每天的百度热点</li>
-<li><a href="https://www.guokr.com/" target="_blank" rel="noopener noreferrer">果壳网</a>：果壳首页推荐，官方更新速度较慢，刚好可以了解些奇思妙想</li>
-<li>工作类：梅花、SocialBeta、数英网、艾瑞网</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>提早晚餐，饿死算逑</title>
-      <link>https://newzone.top/posts/2018-03-06-no_more_dinner.html</link>
-      <guid>https://newzone.top/posts/2018-03-06-no_more_dinner.html</guid>
-      <source url="https://newzone.top/rss.xml">提早晚餐，饿死算逑</source>
-      <description>上大学后，每天晚上都打游戏点「叉鸭例牌 + 两碗米饭」，体重成功上到 85KG。后来减肥在 13 年达到历史低点 75KG，但后来持续上升，在 18 年春节达到顶点，93KG，比婚前胖了38 斤。 目前以在家办公为主，很少出门，每天走路都没走多少，更别说运动了。 解决方案： 增加运动：每天划船机 2 公里，后期再逐步加量 调节饮食，多喝水不吃炸鸡 早餐：9 点，牛奶 + 麦片 午餐：12 点，正常 晚餐：4 点，晚餐后不再吃东西</description>
-      <category>健康</category>
-      <pubDate>Tue, 06 Mar 2018 22:06:00 GMT</pubDate>
-      <content:encoded><![CDATA[<p>上大学后，每天晚上都打游戏点「叉鸭例牌 + 两碗米饭」，体重成功上到 85KG。后来减肥在 13 年达到历史低点 75KG，但后来持续上升，在 18 年春节达到顶点，93KG，比婚前胖了<strong>38 斤</strong>。</p>
-<p>目前以在家办公为主，很少出门，每天走路都没走多少，更别说运动了。</p>
-<p><strong>解决方案：</strong></p>
-<ol>
-<li>
-<p>增加运动：每天划船机 2 公里，后期再逐步加量</p>
-</li>
-<li>
-<p>调节饮食，多喝水不吃炸鸡</p>
-<ul>
-<li>
-<p>早餐：9 点，牛奶 + 麦片</p>
-</li>
-<li>
-<p>午餐：12 点，正常</p>
-</li>
-<li>
-<p>晚餐：4 点，晚餐后不再吃东西</p>
-</li>
-</ul>
-</li>
-</ol>
-<table>
-<thead>
-<tr>
-<th>日期</th>
-<th>历史体重</th>
-<th>备注</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>2012 年 9 月 2 日 23:04:51</td>
-<td>85KG</td>
-<td>今天吃了 3 个苹果，3 块钱煎饼。刚洗完澡</td>
-</tr>
-<tr>
-<td>2013 年 4 月 11 日 21:24:54</td>
-<td>86.4KG</td>
-<td>脱去外套</td>
-</tr>
-<tr>
-<td>2013 年 9 月 5 日 8 点</td>
-<td>81.8kg</td>
-<td></td>
-</tr>
-<tr>
-<td>2013 年 10 月 3 日 9:55:02</td>
-<td>78.7KG</td>
-<td></td>
-</tr>
-<tr>
-<td>2014 年 2 月 25 日春节</td>
-<td>83KG</td>
-<td>重新开始减重</td>
-</tr>
-<tr>
-<td>2014 年 10 月 19 日 16:50:10</td>
-<td>86.1KG</td>
-<td></td>
-</tr>
-<tr>
-<td>2016 年 8 月 4 日</td>
-<td>88KG</td>
-<td></td>
-</tr>
-<tr>
-<td>2018 年 3 月 6 日 晚</td>
-<td>91.6 KG</td>
-<td></td>
-</tr>
-<tr>
-<td>2020 年 10 月 6 日</td>
-<td>95 KG</td>
-<td>巅峰，开始营养健康餐</td>
-</tr>
-</tbody>
-</table>
 ]]></content:encoded>
     </item>
   </channel>
