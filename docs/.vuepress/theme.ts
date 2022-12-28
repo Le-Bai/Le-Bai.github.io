@@ -13,7 +13,7 @@ export default hopeTheme({
   },
 
   iconAssets: "iconfont",
-  logo: "/logo.svg",
+  logo: "/MainLogo2.png",
 
   // 是否全局启用路径导航
   breadcrumb: false,
