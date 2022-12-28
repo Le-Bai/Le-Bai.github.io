@@ -31,13 +31,13 @@ jobs:
           cache: pnpm
 
       # 将读书笔记复制到静态页路径，然后构建页面
-      - name: Build Docs
-        env:
-          NODE_OPTIONS: --max_old_space_size=8192
-        run: |-
-          pnpm cpx "docs/reading/**" docs/.vuepress/public/reading
-          pnpm run docs:build
-          > docs/.vuepress/dist/.nojekyll
+     # - name: Build Docs
+      #  env:
+       #   NODE_OPTIONS: --max_old_space_size=8192
+        #run: |-
+         # pnpm cpx "docs/reading/**" docs/.vuepress/public/reading
+          #pnpm run docs:build
+         # > docs/.vuepress/dist/.nojekyll
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
@@ -46,15 +46,16 @@ jobs:
           branch: gh-pages
           folder: docs/.vuepress/dist
 
-      ### 没有服务器的话，请删除本区块代码，防止报错 ###
+
+    ### 没有服务器的话，请删除本区块代码，防止报错 ###
       # 将页面推送到服务器，timeout 时间从默认的 1 分钟调整到 10 分钟。
-      - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@4.3.3
-        with:
-          local-dir: docs/.vuepress/dist/
-          server: ${{ secrets.ftp_host }}
-          username: ${{ secrets.ftp_username }}
-          password: ${{ secrets.ftp_password }}
-          port: ${{ secrets.ftp_port }} # 建议更改默认的 21 端口
-          timeout: 600000
+      #- name: 📂 Sync files
+      #  uses: SamKirkland/FTP-Deploy-Action@4.3.3
+       # with:
+        #  local-dir: docs/.vuepress/dist/
+         # server: ${{ secrets.ftp_host }}
+          # username: ${{ secrets.ftp_username }}
+          # password: ${{ secrets.ftp_password }}
+          # port: ${{ secrets.ftp_port }} # 建议更改默认的 21 端口
+          # timeout: 600000
       ### 没有服务器的话，请删除本区块代码，防止报错 ###
