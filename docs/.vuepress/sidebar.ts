@@ -10,10 +10,9 @@ export default sidebar([
     prefix: "/pulp/",
     link: "",
     collapsible: true,
-    children: [
-      "README.md","structure"
+    children: ["structure"
      // {
-     //   text: "牙体牙髓病学",
+     //   text: "子分支",
       //  icon: "emmet",
      //   collapsible: true,
       //  children: ["Markdown.md", "Electron.md", "AutoHotkey.md", "Regex.md"],
