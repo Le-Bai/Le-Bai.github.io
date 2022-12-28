@@ -2,7 +2,6 @@ import { defineUserConfig } from "vuepress";
 // import { webpackBundler } from "@vuepress/bundler-webpack";
 // import { defineUserConfig } from "@vuepress/cli";
 import { searchPlugin } from "@vuepress/plugin-search";
-import { docsearchPlugin } from "@vuepress/plugin-docsearch";
 import { googleAnalyticsPlugin } from "@vuepress/plugin-google-analytics";
 import { path } from "@vuepress/utils";
 import theme from "./theme";
