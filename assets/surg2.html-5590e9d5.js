@@ -1,0 +1,1 @@
+import{ae as t,G as s,H as c,E as e}from"./framework-0f3f6485.js";const o={},_=e("ul",null,[e("li")],-1),n=[_];function r(l,a){return s(),c("div",null,n)}const i=t(o,[["render",r],["__file","surg2.html.vue"]]);export{i as default};
