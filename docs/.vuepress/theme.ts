@@ -67,9 +67,9 @@ export default hopeTheme({
   // 主题功能选项：https://vuepress-theme-hope.github.io/v2/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-    name: "清顺",
-    avatar: "/avatar_self.webp",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+    name: "柏乐",
+    avatar: "/*",
+    description: "定期分享探索成果",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
@@ -85,6 +85,9 @@ export default hopeTheme({
       RSS: "https://newzone.top/rss.xml",
     },
   },
+//启用博客功能
+
+
   // 开发模式下是否启动热更新，显示所有更改并重新渲染
   hotReload: true,
   plugins: {
