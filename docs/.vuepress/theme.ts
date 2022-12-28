@@ -9,7 +9,7 @@ export default hopeTheme({
 
   author: {
     name: "柏乐",
-    url: "https://le-bai.github.io/",
+    url: "https://github.com/Le-Bai/Le-Bai.github.io/",
   },
 
   iconAssets: "iconfont",
