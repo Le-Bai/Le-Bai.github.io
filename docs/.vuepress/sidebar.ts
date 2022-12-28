@@ -2,36 +2,28 @@ import { sidebar } from "vuepress-theme-hope";
 
 // 精选图标：https://vuepress-theme-hope.github.io/v2/zh/guide/interface/icon.html#iconfont-%E7%B2%BE%E9%80%89%E5%9B%BE%E6%A0%87
 export default sidebar([
-  "/DailyRoutine",
-  "/Fitness",
-  // 读书笔记架构更换到 docsify，不能使用相对链接
-  { text: "读书笔记", icon: "read", link: "https://newzone.top/reading/" },
+
+
   {
-    text: "🚀 代码",
+    text: "🚀 牙体牙髓病学",
     icon: "",
-    prefix: "/code/",
+    prefix: "/pulp/",
     link: "",
     collapsible: true,
     children: [
       "README.md",
-      {
-        text: "Basic",
-        icon: "emmet",
-        collapsible: true,
-        children: ["Markdown.md", "Electron.md", "AutoHotkey.md", "Regex.md"],
-      },
-      {
-        text: "FrondEnd",
-        icon: "app",
-        collapsible: true,
-        children: ["Vue.md", "HTML.md", "JavaScript.md", "Python.md"],
-      },
+     // {
+     //   text: "牙体牙髓病学",
+      //  icon: "emmet",
+     //   collapsible: true,
+      //  children: ["Markdown.md", "Electron.md", "AutoHotkey.md", "Regex.md"],
+     // },   
     ],
   },
   {
-    text: "🧰 软件应用",
+    text: "🧰 口腔颌面外科学",
     icon: "",
-    prefix: "/apps/",
+    prefix: "/surg/",
     link: "",
     collapsible: true,
     children: "structure",
