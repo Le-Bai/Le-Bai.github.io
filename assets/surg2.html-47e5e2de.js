@@ -1,0 +1,1 @@
+import{ad as t,G as s,H as c,E as e}from"./framework-5174c324.js";const o={},_=e("ul",null,[e("li")],-1),n=[_];function r(l,a){return s(),c("div",null,n)}const d=t(o,[["render",r],["__file","surg2.html.vue"]]);export{d as default};
