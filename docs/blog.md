@@ -3,9 +3,9 @@
 home: true
 layout: BlogHome
 icon: home
-title: 测试博客
+title: 口腔医学学习博客
 heroImage: /MainLogo2.png
-heroText: 测试博客
+heroText: 口腔医学学习博客
 tagline: 盛年不重来，一日难再晨
 bgImage: /bcgd.jpg
 heroFullScreen: false
